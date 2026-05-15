@@ -1,0 +1,111 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "transparency1"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAD//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "chestSpawn"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "enemySpawn"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d1d1d3d3VXd3V3d3d3dXd3dXd3d3d1d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d1d3d3d3d3d3V3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "playerSpawn"
+    },
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "F6": {
+        "id": "F6",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYzAwMGMwMDAxMDEwMTAxMDEwNTA2MDEwMTAxMDEwMTAxMDEwMTAxMDEwNTA2MDEwMTAxMDEwMTAxMDEwMTBiMDIwNDA0MDcwYjAxMDEwMTAxMDEwYjAyMDQwOTA5MDQwNzBiMDEwMTAxMDEwMjA0MGEwMTAxMDgwNDA3MDEwMTAzMDMwNDA2MDEwMTAxMDEwNTA0MDMwMzA5MDkwNDA2MDEwMTAxMDEwNTA0MDkwOTAxMDEwODA0MDcwMTAxMDIwNDBhMDEwMTAxMDEwYjA4MDQwMzAzMDQwYTBiMDEwMTAxMDEwMTBiMDgwNDA0MGEwYjAxMDEwMTAxMDEwMTAxMDEwNTA2MDEwMTAxMDEwMTBkMDEwMTAxMDEwNTA2MDEwMTAxMDEwYzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "Hero_Adventure_Game_.baseTransparency16",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tileGrass2",
+            "Hero_Adventure_Game_.transparency0",
+            "Hero_Adventure_Game_.playerSpawn"
+        ],
+        "displayName": "F1"
+    },
+    "F7": {
+        "id": "F7",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYzAwMGMwMDBkMDEwMTAxMDEwNTA2MDEwMTAxMDEwMTAxMDEwMTAxMDEwNTA2MDEwMTAxMDEwMTAxMDEwMTBiMDIwNDA0MDcwYjAxMDEwMTAxMDEwYjAyMDQwOTA5MDQwNzBiMDEwMTAxMDEwMjA0MGEwMTAxMDgwNDA3MDEwMTAzMDMwNDA2MDEwMTAxMDEwNTA0MDMwMzA5MDkwNDA2MDEwMTAxMDEwNTA0MDkwOTAxMDEwODA0MDcwMTAxMDIwNDBhMDEwMTAxMDEwYjA4MDQwMzAzMDQwYTBiMDEwMTAxMDEwMTBiMDgwNDA0MGEwYjAxMDEwMTAxMDEwMTAxMDEwNTA2MDEwMTAxMDEwMTBlMDEwMTAxMDEwNTA2MDEwMTAxMDEwYzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "Hero_Adventure_Game_.baseTransparency16",
+            "sprites.castle.tileGrass3",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath3",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tileGrass2",
+            "Hero_Adventure_Game_.transparency0",
+            "Hero_Adventure_Game_.enemySpawn",
+            "Hero_Adventure_Game_.playerSpawn"
+        ],
+        "displayName": "F2"
+    },
+    "D6": {
+        "id": "D6",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBjMTExMTExMTExMTExMTExMTExMTExMTExMTExMTBiMTAxNTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMTIxMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDExMjEwMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTEyMTAwMTAxMDEwNjAyMDIwMjAyMDIwMjA2MDEwMTAxMTIxMDAxMDEwMTAyMDIwMzAzMDMwMzAyMDIwMTAxMDExMjA3MDEwMTAxMDIwMzAxMDEwMTAxMDMwMjAxMDEwMTBhMDIwMjAyMDIwMjAxMDEwMjEzMDEwMTAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAyMDQwMTAxMDIwMjAyMDIwMjA5MDMwMzAzMDIwMTAxMDMwMzAxMDEwMjAzMDMwMzA4MTAwMTAxMDEwMjAyMDEwMTAxMDEwMjAyMDEwMTAxMGYxMDAxMDEwMTA2MDIwMjA1MDEwMjAyMDYwMTAxMDEwZjEwMDEwMTAxMDMwMzAzMDMwMTAzMDMwMzAxMDEwMTBmMTAwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMGYxMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwZjBkMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTE0MjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMjAwMDAyMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDIwMDAwMjAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "Hero_Adventure_Game_.baseTransparency16",
+            "Hero_Adventure_Game_.transparency0",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.hazardHole",
+            "sprites.dungeon.floorDark1",
+            "sprites.dungeon.floorDark3",
+            "sprites.dungeon.hazardSpike",
+            "sprites.dungeon.purpleInnerSouthEast",
+            "sprites.dungeon.purpleInnerNorthWest",
+            "sprites.dungeon.purpleInnerNorthEast",
+            "sprites.dungeon.purpleInnerSouthWest",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterEast0",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.purpleOuterNorth0",
+            "sprites.dungeon.purpleOuterEast1",
+            "sprites.dungeon.chestClosed",
+            "Hero_Adventure_Game_.chestSpawn",
+            "Hero_Adventure_Game_.enemySpawn"
+        ],
+        "displayName": "D1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}

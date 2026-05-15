@@ -1,0 +1,34 @@
+{
+    "name": "assets ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Team Dorris Dann: Game Name Here": "pkg:Team Dorris Dann: Game Name Here.json",
+        "Team Dorris Dann: Game Name Here 5/13/2026 5:25 PM": "pkg:Team Dorris Dann: Game Name Here 5/13/2026 5:25 PM.json",
+        "Hero Adventure Game ": "pkg:Hero Adventure Game .json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "Team Dorris Dann: Game Name Here.json",
+        "Team Dorris Dann: Game Name Here 5/13/2026 5:25 PM.json",
+        "Hero Adventure Game .json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
